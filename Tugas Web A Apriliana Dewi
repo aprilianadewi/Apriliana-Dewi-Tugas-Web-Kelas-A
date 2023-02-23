@@ -1,0 +1,30 @@
+<html>
+    <head></head>
+    <body>
+        <h1 style="color:brown ; font-family:'Segoe UI'; text-align: center; background-color: khaki; font-size: 40px;">Keindahan Kota Yogyakarta</h1>
+        <center>
+            <img src="Jogja.jpg" style="width: 600px; margin: auto;">
+        </center>
+        <h2 style="font-size: 30px;">Objek Wisata</h2>
+        <center>
+        <img src="malioboro.jpg" style="width: 500px;">
+        <img src="candi.jpg" style="width: 520px;">
+        </center>
+
+        <p style="text-align: justify; line-height: 30px;">Kota Yogyakarta merupakan salah satu kota yang banyak diminati sebagian besar masyarakat sebagai tempat atau tujuan  wisata karena memiliki beragam objek wisata yang memiliki keindahan. Yogyakarta memiliki berbagai wisata yang dapat menyegarkan pikiran dari kepenatan sehari-hari. Wisatawan yang berkunjung di Yogyakarta tidak hanya berasal dari wisatawan lokal saja melainkan banyak juga wisatawan berasal dari manca negara. Mereka tertarik untuk berkunjung di Yogyakarta karena keindahannya. Berikut merupakan beberapa video mengenai keindahan kota Yogyakarta.</p>
+        
+        <h3 style="font-size: 30px;">Video Keindahan Kota Yogyakarta</h3>
+
+        <!--Cara bikin video-->
+        <center>
+        <video width="550px" controls src="video Yogyakarta.mp4"></video>
+        <br>
+        <br>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kiHSKWIUP40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </center>
+        
+         <!--Cara bikin video-->
+    <audio controls src="musik jogja.mp3"></audio>
+
+    <body>
+</html>
